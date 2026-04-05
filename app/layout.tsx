@@ -2,11 +2,15 @@ import type { Metadata } from "next";
 import Header from "@/components/header";
 import "./globals.css";
 
-import { Lato, Geist } from "next/font/google";
+import { Lato } from "next/font/google";
 import "./globals.css";
 import { cn } from "@/lib/utils";
 
-const geist = Geist({subsets:['latin'],variable:'--font-sans'});
+const lato = Lato({
+  subsets: ["latin"],
+  variable: "--font-sans",
+  weight: ["100", "300", "400", "700", "900"],
+});
 
 export const metadata: Metadata = {
   title: "Vincera",
@@ -21,7 +25,14 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={cn("h-full", "antialiased", "font-sans", geist.variable)}
+      className={cn(
+        "h-full",
+        "antialiased",
+        "font-sans",
+        "dark",
+        "scroll-smooth",
+        lato.variable,
+      )}
     >
       <body className="flex flex-col min-h-full">
         <Header />
