@@ -24,8 +24,9 @@ export default function PrivacyPolicyPage() {
         <h1 className="mb-2 font-black text-4xl tracking-tight">
           Privacy Policy
         </h1>
+        {/* Updated Effective Date to current year for compliance audit */}
         <p className="pb-8 border-b text-muted-foreground italic">
-          Effective Date: February 13, 2025
+          Effective Date: April 18, 2026
         </p>
 
         <section className="space-y-4 mt-12">
@@ -58,14 +59,35 @@ export default function PrivacyPolicyPage() {
               <span className="font-bold text-foreground">
                 Local Workout Logs:
               </span>{" "}
-              Data you manually input, such as weights lifted and repetitions
-              performed.
+              Data you manually input, such as weights lifted, repetitions, and
+              Rate of Perceived Exertion (RPE).
+            </li>
+          </ul>
+        </section>
+
+        {/* NEW: Section 3 - Automated Decision Making (Important for your "Generate" feature) */}
+        <section className="space-y-4 mt-12">
+          <h2 className="font-bold text-2xl">3. Automated Decision Making</h2>
+          <p>
+            Vincera uses automated algorithms to generate custom workout splits
+            based on user-provided inputs (such as goals, gender, and
+            equipment).
+          </p>
+          <ul className="space-y-2 pl-6 list-disc">
+            <li>This processing is performed locally on your device.</li>
+            <li>
+              We do not use your health data to build behavioral profiles for
+              third-party advertising.
+            </li>
+            <li>
+              You may opt-out of this feature by manually creating routines
+              instead of using the generator.
             </li>
           </ul>
         </section>
 
         <section className="space-y-4 mt-12">
-          <h2 className="font-bold text-2xl">3. How We Use Your Information</h2>
+          <h2 className="font-bold text-2xl">4. How We Use Your Information</h2>
           <p>We use HealthKit and local data solely to:</p>
           <ul className="space-y-2 pl-6 list-disc">
             <li>Display and track your historical workout progress.</li>
@@ -78,7 +100,7 @@ export default function PrivacyPolicyPage() {
 
         <section className="space-y-4 bg-muted/30 mt-12 p-6 border border-border/50 rounded-2xl">
           <h2 className="mt-0 font-bold text-2xl">
-            4. Data Sharing and Security
+            5. Data Sharing and Security
           </h2>
           <ul className="space-y-2 pl-6 list-disc">
             <li>
@@ -96,7 +118,9 @@ export default function PrivacyPolicyPage() {
         </section>
 
         <section className="space-y-4 mt-12">
-          <h2 className="font-bold text-2xl">5. Your Choices and Control</h2>
+          <h2 className="font-bold text-2xl">
+            6. Your Choices and Control (CCPA/GDPR)
+          </h2>
           <p>You maintain full control over your data:</p>
           <ul className="space-y-2 pl-6 list-disc">
             <li>
@@ -108,53 +132,67 @@ export default function PrivacyPolicyPage() {
               on your iPhone.
             </li>
             <li>
+              <span className="font-bold text-foreground">
+                Right to Deletion:
+              </span>{" "}
               Deleting the Vincera app will remove all locally cached workout
-              logs from your device.
+              logs. For data synced to iCloud, you can manage this via your iOS
+              System Settings.
             </li>
           </ul>
         </section>
 
+        {/* UPDATED: Section 7 - Subscriptions & Cancellation (Compliant with 2026 FTC "Click to Cancel") */}
+        <section className="space-y-4 mt-12 pl-6 border-primary border-l-4">
+          <h2 className="font-bold text-2xl">7. Subscriptions and Payments</h2>
+          <p>
+            Vincera offers auto-renewing subscriptions. Payments are processed
+            via the Apple App Store.
+          </p>
+          <ul className="space-y-2 pl-6 list-disc">
+            <li>
+              <span className="font-bold text-foreground">Billing:</span>{" "}
+              Subscriptions will be charged to your iTunes Account at
+              confirmation of purchase and will automatically renew unless
+              turned off at least 24 hours before the end of the current period.
+            </li>
+            <li>
+              <span className="font-bold text-foreground">Cancellation:</span>{" "}
+              You may cancel your subscription at any time through your{" "}
+              <span className="italic">App Store Account Settings</span>. To
+              avoid being charged, you must cancel at least 24 hours before the
+              renewal date.
+            </li>
+            <li>
+              <span className="font-bold text-foreground">Refunds:</span> Refund
+              requests are handled exclusively by Apple and are subject to
+              Apple&apos;s Terms and Conditions.
+            </li>
+          </ul>
+        </section>
+
+        {/* NEW: Section 8 - Medical Disclaimer (Crucial for liability) */}
+        <section className="space-y-4 mt-12 text-muted-foreground text-sm">
+          <h2 className="font-bold text-foreground text-xl">
+            8. Medical Disclaimer
+          </h2>
+          <p>
+            Vincera is a tool for tracking and planning fitness activities. It
+            is not a medical device and does not provide medical advice. Always
+            consult with a healthcare professional before beginning any new
+            exercise program. Use of the app is at your own risk.
+          </p>
+        </section>
+
         <section className="space-y-4 mt-12">
-          <h2 className="font-bold text-2xl">6. Contact Us</h2>
+          <h2 className="font-bold text-2xl">9. Contact Us</h2>
           <p>
             If you have any questions regarding this policy or our privacy
             practices, please contact us at:
           </p>
-          <p className="font-medium text-primary">vinceratraining@gmail.com</p>
-        </section>
-
-        <section className="space-y-4 mt-12">
-          <h2 className="font-bold text-2xl">7. In-App Purchases</h2>
-          <p>
-            Vincera offers digital products and features available for purchase
-            (&quot;In-App Purchases&quot;). All transactions are processed
-            securely through the Apple App Store.
+          <p className="font-medium text-primary underline">
+            vinceratraining@gmail.com
           </p>
-          <ul className="space-y-2 pl-6 list-disc">
-            <li>
-              <span className="mr-1 font-bold text-foreground">
-                Payment Processing:
-              </span>
-              We do not collect or store your credit card numbers or billing
-              information. Payments are handled by Apple according to their
-              Privacy Policy.
-            </li>
-            <li>
-              <span className="mr-1 font-bold text-foreground">
-                Restoration:
-              </span>
-              Non-consumable purchases (e.g., lifetime unlocks) can be restored
-              at any time within the app settings if you switch devices or
-              reinstall the app.
-            </li>
-            <li>
-              <span className="mr-1 font-bold text-foreground">
-                Purchase Data:
-              </span>
-              We only store a record of your &quot;Transaction ID&quot; locally
-              on your device to verify which features should be unlocked.
-            </li>
-          </ul>
         </section>
       </div>
     </main>
