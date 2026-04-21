@@ -25,14 +25,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "pectorals",
-    "secondaryGroups": [
-      "front deltoids",
-      "triceps"
-    ],
+    "secondaryGroups": ["front deltoids", "triceps"],
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 3,
-    "repsHigh": 8
+    "repsHigh": 8,
+    "stimulus": 7,
+    "fatigue": 6
   },
   "1": {
     "id": "1",
@@ -59,14 +58,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "pectorals",
-    "secondaryGroups": [
-      "front deltoids",
-      "triceps"
-    ],
+    "secondaryGroups": ["front deltoids", "triceps"],
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 6,
-    "repsHigh": 12
+    "repsHigh": 12,
+    "stimulus": 8,
+    "fatigue": 6
   },
   "2": {
     "id": "2",
@@ -92,14 +90,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "pectorals",
-    "secondaryGroups": [
-      "front deltoids",
-      "triceps"
-    ],
+    "secondaryGroups": ["front deltoids", "triceps"],
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 4,
-    "repsHigh": 8
+    "repsHigh": 8,
+    "stimulus": 6,
+    "fatigue": 6
   },
   "3": {
     "id": "3",
@@ -123,13 +120,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "pectorals",
-    "secondaryGroups": [
-      "front deltoids"
-    ],
+    "secondaryGroups": ["front deltoids"],
     "exerciseType": "isolation",
     "equipmentType": "cable",
     "repsLow": 12,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 7,
+    "fatigue": 2
   },
   "4": {
     "id": "4",
@@ -153,13 +150,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "pectorals",
-    "secondaryGroups": [
-      "front deltoids"
-    ],
+    "secondaryGroups": ["front deltoids"],
     "exerciseType": "isolation",
     "equipmentType": "cable",
     "repsLow": 12,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 7,
+    "fatigue": 2
   },
   "5": {
     "id": "5",
@@ -183,13 +180,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "pectorals",
-    "secondaryGroups": [
-      "front deltoids"
-    ],
+    "secondaryGroups": ["front deltoids"],
     "exerciseType": "isolation",
     "equipmentType": "cable",
     "repsLow": 12,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 7,
+    "fatigue": 2
   },
   "6": {
     "id": "6",
@@ -213,13 +210,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "pectorals",
-    "secondaryGroups": [
-      "front deltoids"
-    ],
+    "secondaryGroups": ["front deltoids"],
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 12,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 6,
+    "fatigue": 2
   },
   "7": {
     "id": "7",
@@ -243,13 +240,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "pectorals",
-    "secondaryGroups": [
-      "front deltoids"
-    ],
+    "secondaryGroups": ["front deltoids"],
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 12,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 6,
+    "fatigue": 2
   },
   "8": {
     "id": "8",
@@ -273,13 +270,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "pectorals",
-    "secondaryGroups": [
-      "front deltoids"
-    ],
+    "secondaryGroups": ["front deltoids"],
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 12,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 5,
+    "fatigue": 2
   },
   "9": {
     "id": "9",
@@ -303,13 +300,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "pectorals",
-    "secondaryGroups": [
-      "front deltoids"
-    ],
+    "secondaryGroups": ["front deltoids"],
     "exerciseType": "isolation",
     "equipmentType": "machine",
     "repsLow": 12,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 8,
+    "fatigue": 3
   },
   "10": {
     "id": "10",
@@ -333,14 +330,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "pectorals",
-    "secondaryGroups": [
-      "front deltoids",
-      "triceps"
-    ],
+    "secondaryGroups": ["front deltoids", "triceps"],
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 7,
+    "fatigue": 5
   },
   "11": {
     "id": "11",
@@ -364,14 +360,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "pectorals",
-    "secondaryGroups": [
-      "front deltoids",
-      "triceps"
-    ],
+    "secondaryGroups": ["front deltoids", "triceps"],
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 6,
-    "repsHigh": 12
+    "repsHigh": 12,
+    "stimulus": 6,
+    "fatigue": 6
   },
   "12": {
     "id": "12",
@@ -395,14 +390,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "pectorals",
-    "secondaryGroups": [
-      "front deltoids",
-      "triceps"
-    ],
+    "secondaryGroups": ["front deltoids", "triceps"],
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 10,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 8,
+    "fatigue": 3
   },
   "13": {
     "id": "13",
@@ -426,14 +420,13 @@
     "unitsOne": "Weight(+)",
     "unitsTwo": "Reps",
     "primaryGroup": "pectorals",
-    "secondaryGroups": [
-      "front deltoids",
-      "triceps"
-    ],
+    "secondaryGroups": ["front deltoids", "triceps"],
     "exerciseType": "compound",
     "equipmentType": "bodyweight",
     "repsLow": 12,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 6,
+    "fatigue": 5
   },
   "14": {
     "id": "14",
@@ -457,14 +450,13 @@
     "unitsOne": "Weight(+)",
     "unitsTwo": "Reps",
     "primaryGroup": "pectorals",
-    "secondaryGroups": [
-      "front deltoids",
-      "triceps"
-    ],
+    "secondaryGroups": ["front deltoids", "triceps"],
     "exerciseType": "compound",
     "equipmentType": "bodyweight",
     "repsLow": 12,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 5,
+    "fatigue": 4
   },
   "15": {
     "id": "15",
@@ -488,14 +480,13 @@
     "unitsOne": "Weight(+)",
     "unitsTwo": "Reps",
     "primaryGroup": "pectorals",
-    "secondaryGroups": [
-      "front deltoids",
-      "triceps"
-    ],
+    "secondaryGroups": ["front deltoids", "triceps"],
     "exerciseType": "compound",
     "equipmentType": "bodyweight",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 7,
+    "fatigue": 6
   },
   "17": {
     "id": "17",
@@ -519,14 +510,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "front deltoids",
-    "secondaryGroups": [
-      "side deltoids",
-      "triceps"
-    ],
+    "secondaryGroups": ["side deltoids", "triceps"],
     "exerciseType": "compound",
     "equipmentType": "dumbbell",
     "repsLow": 6,
-    "repsHigh": 12
+    "repsHigh": 12,
+    "stimulus": 9,
+    "fatigue": 6
   },
   "18": {
     "id": "18",
@@ -550,13 +540,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "side deltoids",
-    "secondaryGroups": [
-      "trapezius"
-    ],
+    "secondaryGroups": ["trapezius"],
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 10,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 8,
+    "fatigue": 2
   },
   "19": {
     "id": "19",
@@ -584,7 +574,9 @@
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 10,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 7,
+    "fatigue": 2
   },
   "20": {
     "id": "20",
@@ -608,14 +600,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "front deltoids",
-    "secondaryGroups": [
-      "triceps",
-      "trapezius"
-    ],
+    "secondaryGroups": ["triceps", "trapezius"],
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 4,
-    "repsHigh": 8
+    "repsHigh": 8,
+    "stimulus": 7,
+    "fatigue": 7
   },
   "21": {
     "id": "21",
@@ -639,14 +630,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "side deltoids",
-    "secondaryGroups": [
-      "front deltoids",
-      "trapezius"
-    ],
+    "secondaryGroups": ["front deltoids", "trapezius"],
     "exerciseType": "isolation",
     "equipmentType": "barbell",
     "repsLow": 10,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 4,
+    "fatigue": 4
   },
   "22": {
     "id": "22",
@@ -670,13 +660,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "rear deltoids",
-    "secondaryGroups": [
-      "trapezius"
-    ],
+    "secondaryGroups": ["trapezius"],
     "exerciseType": "isolation",
     "equipmentType": "machine",
     "repsLow": 12,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 7,
+    "fatigue": 2
   },
   "23": {
     "id": "23",
@@ -700,13 +690,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "rear deltoids",
-    "secondaryGroups": [
-      "trapezius"
-    ],
+    "secondaryGroups": ["trapezius"],
     "exerciseType": "isolation",
     "equipmentType": "cable",
     "repsLow": 12,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 7,
+    "fatigue": 2
   },
   "24": {
     "id": "24",
@@ -730,13 +720,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "rear deltoids",
-    "secondaryGroups": [
-      "trapezius"
-    ],
+    "secondaryGroups": ["trapezius"],
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 12,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 7,
+    "fatigue": 2
   },
   "25": {
     "id": "25",
@@ -760,13 +750,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "front deltoids",
-    "secondaryGroups": [
-      "triceps"
-    ],
+    "secondaryGroups": ["triceps"],
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 7,
+    "fatigue": 4
   },
   "27": {
     "id": "27",
@@ -794,7 +784,9 @@
     "exerciseType": "isolation",
     "equipmentType": "cable",
     "repsLow": 10,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 7,
+    "fatigue": 2
   },
   "28": {
     "id": "28",
@@ -822,7 +814,9 @@
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 10,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 5,
+    "fatigue": 2
   },
   "29": {
     "id": "29",
@@ -850,7 +844,9 @@
     "exerciseType": "isolation",
     "equipmentType": "barbell",
     "repsLow": 10,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 8,
+    "fatigue": 6
   },
   "30": {
     "id": "30",
@@ -878,7 +874,9 @@
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 10,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 8,
+    "fatigue": 5
   },
   "31": {
     "id": "31",
@@ -906,7 +904,9 @@
     "exerciseType": "isolation",
     "equipmentType": "cable",
     "repsLow": 10,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 8,
+    "fatigue": 4
   },
   "32": {
     "id": "32",
@@ -934,7 +934,9 @@
     "exerciseType": "isolation",
     "equipmentType": "cable",
     "repsLow": 10,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 7,
+    "fatigue": 4
   },
   "33": {
     "id": "33",
@@ -962,7 +964,9 @@
     "exerciseType": "isolation",
     "equipmentType": "cable",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 7,
+    "fatigue": 4
   },
   "34": {
     "id": "34",
@@ -986,14 +990,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "triceps",
-    "secondaryGroups": [
-      "pectorals",
-      "front deltoids"
-    ],
+    "secondaryGroups": ["pectorals", "front deltoids"],
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 7,
+    "fatigue": 5
   },
   "35": {
     "id": "35",
@@ -1017,14 +1020,13 @@
     "unitsOne": "Weight(+)",
     "unitsTwo": "Reps",
     "primaryGroup": "triceps",
-    "secondaryGroups": [
-      "pectorals",
-      "front deltoids"
-    ],
+    "secondaryGroups": ["pectorals", "front deltoids"],
     "exerciseType": "compound",
     "equipmentType": "bodyweight",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 7,
+    "fatigue": 4
   },
   "37": {
     "id": "37",
@@ -1048,15 +1050,13 @@
     "unitsOne": "Weight(+)",
     "unitsTwo": "Reps",
     "primaryGroup": "biceps",
-    "secondaryGroups": [
-      "lats",
-      "trapezius",
-      "rhomboids"
-    ],
+    "secondaryGroups": ["lats", "trapezius", "rhomboids"],
     "exerciseType": "compound",
     "equipmentType": "bodyweight",
     "repsLow": 6,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 8,
+    "fatigue": 7
   },
   "38": {
     "id": "38",
@@ -1084,7 +1084,9 @@
     "exerciseType": "isolation",
     "equipmentType": "barbell",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 7,
+    "fatigue": 7
   },
   "39": {
     "id": "39",
@@ -1112,7 +1114,9 @@
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 8,
+    "fatigue": 5
   },
   "40": {
     "id": "40",
@@ -1136,13 +1140,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "biceps",
-    "secondaryGroups": [
-      "forearms"
-    ],
+    "secondaryGroups": ["forearms"],
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 8,
+    "fatigue": 5
   },
   "41": {
     "id": "41",
@@ -1166,13 +1170,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "biceps",
-    "secondaryGroups": [
-      "forearms"
-    ],
+    "secondaryGroups": ["forearms"],
     "exerciseType": "isolation",
     "equipmentType": "cable",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 6,
+    "fatigue": 5
   },
   "42": {
     "id": "42",
@@ -1200,7 +1204,9 @@
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 12,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 9,
+    "fatigue": 3
   },
   "43": {
     "id": "43",
@@ -1228,7 +1234,9 @@
     "exerciseType": "isolation",
     "equipmentType": "cable",
     "repsLow": 12,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 8,
+    "fatigue": 2
   },
   "44": {
     "id": "44",
@@ -1256,7 +1264,9 @@
     "exerciseType": "isolation",
     "equipmentType": "cable",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 7,
+    "fatigue": 5
   },
   "45": {
     "id": "45",
@@ -1284,7 +1294,9 @@
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 10,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 5,
+    "fatigue": 2
   },
   "46": {
     "id": "46",
@@ -1312,7 +1324,9 @@
     "exerciseType": "isolation",
     "equipmentType": "barbell",
     "repsLow": 6,
-    "repsHigh": 10
+    "repsHigh": 10,
+    "stimulus": 6,
+    "fatigue": 8
   },
   "48": {
     "id": "48",
@@ -1346,7 +1360,9 @@
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 8,
-    "repsHigh": 12
+    "repsHigh": 12,
+    "stimulus": 9,
+    "fatigue": 8
   },
   "49": {
     "id": "49",
@@ -1380,7 +1396,9 @@
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 9,
+    "fatigue": 8
   },
   "50": {
     "id": "50",
@@ -1414,7 +1432,9 @@
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 6,
-    "repsHigh": 12
+    "repsHigh": 12,
+    "stimulus": 9,
+    "fatigue": 8
   },
   "51": {
     "id": "51",
@@ -1438,16 +1458,13 @@
     "unitsOne": "Weight(+)",
     "unitsTwo": "Reps",
     "primaryGroup": "lats",
-    "secondaryGroups": [
-      "trapezius",
-      "rhomboids",
-      "biceps",
-      "rear deltoids"
-    ],
+    "secondaryGroups": ["trapezius", "rhomboids", "biceps", "rear deltoids"],
     "exerciseType": "compound",
     "equipmentType": "bodyweight",
     "repsLow": 4,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 9,
+    "fatigue": 7
   },
   "52": {
     "id": "52",
@@ -1471,16 +1488,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "lats",
-    "secondaryGroups": [
-      "trapezius",
-      "rhomboids",
-      "biceps",
-      "rear deltoids"
-    ],
+    "secondaryGroups": ["trapezius", "rhomboids", "biceps", "rear deltoids"],
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 9,
+    "fatigue": 5
   },
   "53": {
     "id": "53",
@@ -1504,16 +1518,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "lats",
-    "secondaryGroups": [
-      "trapezius",
-      "rhomboids",
-      "biceps",
-      "rear deltoids"
-    ],
+    "secondaryGroups": ["trapezius", "rhomboids", "biceps", "rear deltoids"],
     "exerciseType": "compound",
     "equipmentType": "cable",
     "repsLow": 10,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 9,
+    "fatigue": 5
   },
   "54": {
     "id": "54",
@@ -1547,7 +1558,9 @@
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 10,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 9,
+    "fatigue": 7
   },
   "55": {
     "id": "55",
@@ -1571,16 +1584,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "lats",
-    "secondaryGroups": [
-      "trapezius",
-      "rhomboids",
-      "biceps",
-      "rear deltoids"
-    ],
+    "secondaryGroups": ["trapezius", "rhomboids", "biceps", "rear deltoids"],
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 10,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 8,
+    "fatigue": 7
   },
   "57": {
     "id": "57",
@@ -1615,7 +1625,9 @@
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 1,
-    "repsHigh": 6
+    "repsHigh": 6,
+    "stimulus": 8,
+    "fatigue": 10
   },
   "58": {
     "id": "58",
@@ -1650,7 +1662,9 @@
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 6,
-    "repsHigh": 12
+    "repsHigh": 12,
+    "stimulus": 9,
+    "fatigue": 9
   },
   "59": {
     "id": "59",
@@ -1685,7 +1699,9 @@
     "exerciseType": "compound",
     "equipmentType": "dumbbell",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 6,
+    "fatigue": 8
   },
   "60": {
     "id": "60",
@@ -1720,7 +1736,9 @@
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 9,
+    "fatigue": 9
   },
   "61": {
     "id": "61",
@@ -1755,7 +1773,9 @@
     "exerciseType": "compound",
     "equipmentType": "dumbbell",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 6,
+    "fatigue": 8
   },
   "62": {
     "id": "62",
@@ -1783,7 +1803,9 @@
     "exerciseType": "isolation",
     "equipmentType": "machine",
     "repsLow": 12,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 8,
+    "fatigue": 3
   },
   "63": {
     "id": "63",
@@ -1811,7 +1833,9 @@
     "exerciseType": "isolation",
     "equipmentType": "machine",
     "repsLow": 12,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 10,
+    "fatigue": 4
   },
   "65": {
     "id": "65",
@@ -1844,7 +1868,9 @@
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 3,
-    "repsHigh": 8
+    "repsHigh": 8,
+    "stimulus": 8,
+    "fatigue": 10
   },
   "66": {
     "id": "66",
@@ -1868,15 +1894,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "quadriceps",
-    "secondaryGroups": [
-      "glutes",
-      "erector spinae",
-      "adductors"
-    ],
+    "secondaryGroups": ["glutes", "erector spinae", "adductors"],
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 6,
-    "repsHigh": 12
+    "repsHigh": 12,
+    "stimulus": 9,
+    "fatigue": 10
   },
   "67": {
     "id": "67",
@@ -1900,15 +1924,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "quadriceps",
-    "secondaryGroups": [
-      "glutes",
-      "erector spinae",
-      "adductors"
-    ],
+    "secondaryGroups": ["glutes", "erector spinae", "adductors"],
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 8,
-    "repsHigh": 12
+    "repsHigh": 12,
+    "stimulus": 9,
+    "fatigue": 9
   },
   "68": {
     "id": "68",
@@ -1932,15 +1954,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "quadriceps",
-    "secondaryGroups": [
-      "glutes",
-      "erector spinae",
-      "adductors"
-    ],
+    "secondaryGroups": ["glutes", "erector spinae", "adductors"],
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 9,
+    "fatigue": 9
   },
   "69": {
     "id": "69",
@@ -1964,15 +1984,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "quadriceps",
-    "secondaryGroups": [
-      "glutes",
-      "erector spinae",
-      "adductors"
-    ],
+    "secondaryGroups": ["glutes", "erector spinae", "adductors"],
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 9,
+    "fatigue": 8
   },
   "70": {
     "id": "70",
@@ -2000,7 +2018,9 @@
     "exerciseType": "isolation",
     "equipmentType": "machine",
     "repsLow": 10,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 8,
+    "fatigue": 4
   },
   "71": {
     "id": "71",
@@ -2028,7 +2048,9 @@
     "exerciseType": "isolation",
     "equipmentType": "machine",
     "repsLow": 12,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 7,
+    "fatigue": 2
   },
   "72": {
     "id": "72",
@@ -2056,7 +2078,9 @@
     "exerciseType": "isolation",
     "equipmentType": "machine",
     "repsLow": 12,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 7,
+    "fatigue": 2
   },
   "73": {
     "id": "73",
@@ -2080,15 +2104,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "quadriceps",
-    "secondaryGroups": [
-      "glutes",
-      "hamstrings",
-      "adductors"
-    ],
+    "secondaryGroups": ["glutes", "hamstrings", "adductors"],
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 10,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 4,
+    "fatigue": 7
   },
   "74": {
     "id": "74",
@@ -2112,15 +2134,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "quadriceps",
-    "secondaryGroups": [
-      "glutes",
-      "hamstrings",
-      "adductors"
-    ],
+    "secondaryGroups": ["glutes", "hamstrings", "adductors"],
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 8,
+    "fatigue": 8
   },
   "75": {
     "id": "75",
@@ -2144,15 +2164,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "hamstrings",
-    "secondaryGroups": [
-      "glutes",
-      "adductors",
-      "quads"
-    ],
+    "secondaryGroups": ["glutes", "adductors", "quads"],
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 4,
-    "repsHigh": 10
+    "repsHigh": 10,
+    "stimulus": 2,
+    "fatigue": 10
   },
   "76": {
     "id": "76",
@@ -2176,14 +2194,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "pectorals",
-    "secondaryGroups": [
-      "front deltoids",
-      "triceps"
-    ],
+    "secondaryGroups": ["front deltoids", "triceps"],
     "exerciseType": "compound",
     "equipmentType": "dumbbell",
     "repsLow": 6,
-    "repsHigh": 12
+    "repsHigh": 12,
+    "stimulus": 9,
+    "fatigue": 6
   },
   "77": {
     "id": "77",
@@ -2207,14 +2224,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "pectorals",
-    "secondaryGroups": [
-      "front deltoids",
-      "triceps"
-    ],
+    "secondaryGroups": ["front deltoids", "triceps"],
     "exerciseType": "compound",
     "equipmentType": "dumbbell",
     "repsLow": 6,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 9,
+    "fatigue": 6
   },
   "78": {
     "id": "78",
@@ -2238,15 +2254,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "lats",
-    "secondaryGroups": [
-      "rhomboids",
-      "trapezius",
-      "biceps"
-    ],
+    "secondaryGroups": ["rhomboids", "trapezius", "biceps"],
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 7,
+    "fatigue": 5
   },
   "79": {
     "id": "79",
@@ -2270,14 +2284,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "lats",
-    "secondaryGroups": [
-      "pecs",
-      "triceps"
-    ],
+    "secondaryGroups": ["pecs", "triceps"],
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 7,
+    "fatigue": 3
   },
   "80": {
     "id": "80",
@@ -2301,15 +2314,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "lats",
-    "secondaryGroups": [
-      "rhomboids",
-      "trapezius",
-      "triceps"
-    ],
+    "secondaryGroups": ["rhomboids", "trapezius", "triceps"],
     "exerciseType": "isolation",
     "equipmentType": "cable",
     "repsLow": 12,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 8,
+    "fatigue": 2
   },
   "81": {
     "id": "81",
@@ -2333,13 +2344,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "soleus",
-    "secondaryGroups": [
-      "gastrocnemius"
-    ],
+    "secondaryGroups": ["gastrocnemius"],
     "exerciseType": "isolation",
     "equipmentType": "machine",
     "repsLow": 12,
-    "repsHigh": 25
+    "repsHigh": 25,
+    "stimulus": 8,
+    "fatigue": 1
   },
   "82": {
     "id": "82",
@@ -2363,13 +2374,13 @@
     "unitsOne": "Weight(+)",
     "unitsTwo": "Reps",
     "primaryGroup": "gastrocnemius",
-    "secondaryGroups": [
-      "soleus"
-    ],
+    "secondaryGroups": ["soleus"],
     "exerciseType": "isolation",
     "equipmentType": "bodyweight",
     "repsLow": 12,
-    "repsHigh": 25
+    "repsHigh": 25,
+    "stimulus": 8,
+    "fatigue": 1
   },
   "83": {
     "id": "83",
@@ -2393,13 +2404,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "gastrocnemius",
-    "secondaryGroups": [
-      "soleus"
-    ],
+    "secondaryGroups": ["soleus"],
     "exerciseType": "isolation",
     "equipmentType": "machine",
     "repsLow": 12,
-    "repsHigh": 25
+    "repsHigh": 25,
+    "stimulus": 8,
+    "fatigue": 2
   },
   "84": {
     "id": "84",
@@ -2423,13 +2434,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "gastrocnemius",
-    "secondaryGroups": [
-      "soleus"
-    ],
+    "secondaryGroups": ["soleus"],
     "exerciseType": "isolation",
     "equipmentType": "machine",
     "repsLow": 12,
-    "repsHigh": 25
+    "repsHigh": 25,
+    "stimulus": 10,
+    "fatigue": 2
   },
   "85": {
     "id": "85",
@@ -2453,13 +2464,13 @@
     "unitsOne": "Weight(+)",
     "unitsTwo": "Reps",
     "primaryGroup": "gastrocnemius",
-    "secondaryGroups": [
-      "soleus"
-    ],
+    "secondaryGroups": ["soleus"],
     "exerciseType": "isolation",
     "equipmentType": "bodyweight",
     "repsLow": 12,
-    "repsHigh": 25
+    "repsHigh": 25,
+    "stimulus": 8,
+    "fatigue": 2
   },
   "86": {
     "id": "86",
@@ -2487,7 +2498,9 @@
     "exerciseType": "isolation",
     "equipmentType": "cable",
     "repsLow": 10,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 8,
+    "fatigue": 2
   },
   "87": {
     "id": "87",
@@ -2515,7 +2528,9 @@
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 10,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 7,
+    "fatigue": 3
   },
   "88": {
     "id": "88",
@@ -2539,15 +2554,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "side deltoids",
-    "secondaryGroups": [
-      "trapezius",
-      "front deltoids",
-      "rear deltoids"
-    ],
+    "secondaryGroups": ["trapezius", "front deltoids", "rear deltoids"],
     "exerciseType": "isolation",
     "equipmentType": "cable",
     "repsLow": 10,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 9,
+    "fatigue": 2
   },
   "89": {
     "id": "89",
@@ -2571,15 +2584,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "rear deltoids",
-    "secondaryGroups": [
-      "trapezius",
-      "front deltoids",
-      "side deltoids"
-    ],
+    "secondaryGroups": ["trapezius", "front deltoids", "side deltoids"],
     "exerciseType": "isolation",
     "equipmentType": "cable",
     "repsLow": 12,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 9,
+    "fatigue": 2
   },
   "90": {
     "id": "90",
@@ -2603,15 +2614,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "quadriceps",
-    "secondaryGroups": [
-      "hamstrings",
-      "glutes",
-      "adductors"
-    ],
+    "secondaryGroups": ["hamstrings", "glutes", "adductors"],
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 6,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 9,
+    "fatigue": 7
   },
   "91": {
     "id": "91",
@@ -2635,13 +2644,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "gastrocnemius",
-    "secondaryGroups": [
-      "soleus"
-    ],
+    "secondaryGroups": ["soleus"],
     "exerciseType": "isolation",
     "equipmentType": "machine",
     "repsLow": 12,
-    "repsHigh": 25
+    "repsHigh": 25,
+    "stimulus": 8,
+    "fatigue": 2
   },
   "92": {
     "id": "92",
@@ -2665,14 +2674,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "pectorals",
-    "secondaryGroups": [
-      "front deltoids",
-      "triceps"
-    ],
+    "secondaryGroups": ["front deltoids", "triceps"],
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 6,
-    "repsHigh": 12
+    "repsHigh": 12,
+    "stimulus": 6,
+    "fatigue": 5
   },
   "93": {
     "id": "93",
@@ -2696,14 +2704,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "pectorals",
-    "secondaryGroups": [
-      "triceps",
-      "front deltoids"
-    ],
+    "secondaryGroups": ["triceps", "front deltoids"],
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 6,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 7,
+    "fatigue": 5
   },
   "94": {
     "id": "94",
@@ -2727,16 +2734,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "front deltoids",
-    "secondaryGroups": [
-      "side deltoids",
-      "trapezius",
-      "pectorals",
-      "triceps"
-    ],
+    "secondaryGroups": ["side deltoids", "trapezius", "pectorals", "triceps"],
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 8,
-    "repsHigh": 12
+    "repsHigh": 12,
+    "stimulus": 6,
+    "fatigue": 6
   },
   "95": {
     "id": "95",
@@ -2760,15 +2764,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "lats",
-    "secondaryGroups": [
-      "trapezius",
-      "rhomboids",
-      "biceps"
-    ],
+    "secondaryGroups": ["trapezius", "rhomboids", "biceps"],
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 8,
+    "fatigue": 4
   },
   "96": {
     "id": "96",
@@ -2792,15 +2794,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "lats",
-    "secondaryGroups": [
-      "trapezius",
-      "rhomboids",
-      "biceps"
-    ],
+    "secondaryGroups": ["trapezius", "rhomboids", "biceps"],
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 7,
+    "fatigue": 4
   },
   "97": {
     "id": "97",
@@ -2824,14 +2824,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "triceps",
-    "secondaryGroups": [
-      "pectorals",
-      "front deltoids"
-    ],
+    "secondaryGroups": ["pectorals", "front deltoids"],
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 6,
-    "repsHigh": 12
+    "repsHigh": 12,
+    "stimulus": 7,
+    "fatigue": 7
   },
   "98": {
     "id": "98",
@@ -2855,15 +2854,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "lats",
-    "secondaryGroups": [
-      "trapezius",
-      "rhomboids",
-      "rear deltoids"
-    ],
+    "secondaryGroups": ["trapezius", "rhomboids", "rear deltoids"],
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 6,
-    "repsHigh": 12
+    "repsHigh": 12,
+    "stimulus": 9,
+    "fatigue": 8
   },
   "99": {
     "id": "99",
@@ -2887,14 +2884,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "quadriceps",
-    "secondaryGroups": [
-      "glutes",
-      "adductors"
-    ],
+    "secondaryGroups": ["glutes", "adductors"],
     "exerciseType": "compound",
     "equipmentType": "dumbbell",
     "repsLow": 8,
-    "repsHigh": 12
+    "repsHigh": 12,
+    "stimulus": 9,
+    "fatigue": 9
   },
   "100": {
     "id": "100",
@@ -2918,15 +2914,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "quadriceps",
-    "secondaryGroups": [
-      "glutes",
-      "hamstrings",
-      "adductors"
-    ],
+    "secondaryGroups": ["glutes", "hamstrings", "adductors"],
     "exerciseType": "compound",
     "equipmentType": "dumbbell",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 8,
+    "fatigue": 5
   },
   "101": {
     "id": "101",
@@ -2950,13 +2944,13 @@
     "unitsOne": "Weight(+)",
     "unitsTwo": "Reps",
     "primaryGroup": "glutes",
-    "secondaryGroups": [
-      "hamstrings"
-    ],
+    "secondaryGroups": ["hamstrings"],
     "exerciseType": "isolation",
     "equipmentType": "bodyweight",
     "repsLow": 12,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 8,
+    "fatigue": 3
   },
   "102": {
     "id": "102",
@@ -2980,13 +2974,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "biceps",
-    "secondaryGroups": [
-      "forearms"
-    ],
+    "secondaryGroups": ["forearms"],
     "exerciseType": "isolation",
     "equipmentType": "barbell",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 8,
+    "fatigue": 3
   },
   "103": {
     "id": "103",
@@ -3010,13 +3004,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "forearms",
-    "secondaryGroups": [
-      "biceps"
-    ],
+    "secondaryGroups": ["biceps"],
     "exerciseType": "isolation",
     "equipmentType": "barbell",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 8,
+    "fatigue": 3
   },
   "104": {
     "id": "104",
@@ -3040,16 +3034,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "lats",
-    "secondaryGroups": [
-      "trapezius",
-      "rhomboids",
-      "biceps",
-      "rear deltoids"
-    ],
+    "secondaryGroups": ["trapezius", "rhomboids", "biceps", "rear deltoids"],
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 9,
+    "fatigue": 5
   },
   "105": {
     "id": "105",
@@ -3073,14 +3064,13 @@
     "unitsOne": "Weight(+)",
     "unitsTwo": "Reps",
     "primaryGroup": "triceps",
-    "secondaryGroups": [
-      "pectorals",
-      "front deltoids"
-    ],
+    "secondaryGroups": ["pectorals", "front deltoids"],
     "exerciseType": "isolation",
     "equipmentType": "bodyweight",
     "repsLow": 6,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 8,
+    "fatigue": 6
   },
   "106": {
     "id": "106",
@@ -3104,16 +3094,13 @@
     "unitsOne": "Weight(+)",
     "unitsTwo": "Reps",
     "primaryGroup": "lats",
-    "secondaryGroups": [
-      "trapezius",
-      "rhomboids",
-      "biceps",
-      "rear deltoids"
-    ],
+    "secondaryGroups": ["trapezius", "rhomboids", "biceps", "rear deltoids"],
     "exerciseType": "compound",
     "equipmentType": "dumbbell",
     "repsLow": 10,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 8,
+    "fatigue": 4
   },
   "107": {
     "id": "107",
@@ -3137,14 +3124,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "pectorals",
-    "secondaryGroups": [
-      "triceps",
-      "front deltoids"
-    ],
+    "secondaryGroups": ["triceps", "front deltoids"],
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 8,
-    "repsHigh": 12
+    "repsHigh": 12,
+    "stimulus": 8,
+    "fatigue": 5
   },
   "108": {
     "id": "108",
@@ -3168,14 +3154,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "front deltoids",
-    "secondaryGroups": [
-      "side deltoids",
-      "trapezius"
-    ],
+    "secondaryGroups": ["side deltoids", "trapezius"],
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 8,
-    "repsHigh": 12
+    "repsHigh": 12,
+    "stimulus": 9,
+    "fatigue": 9
   },
   "109": {
     "id": "109",
@@ -3199,13 +3184,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "biceps",
-    "secondaryGroups": [
-      "forearms"
-    ],
+    "secondaryGroups": ["forearms"],
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 10,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 7,
+    "fatigue": 3
   },
   "110": {
     "id": "110",
@@ -3229,13 +3214,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "biceps",
-    "secondaryGroups": [
-      "forearms"
-    ],
+    "secondaryGroups": ["forearms"],
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 10,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 8,
+    "fatigue": 3
   },
   "111": {
     "id": "111",
@@ -3259,16 +3244,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "lats",
-    "secondaryGroups": [
-      "trapezius",
-      "rhomboids",
-      "biceps",
-      "rear deltoids"
-    ],
+    "secondaryGroups": ["trapezius", "rhomboids", "biceps", "rear deltoids"],
     "exerciseType": "isolation",
     "equipmentType": "cable",
     "repsLow": 10,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 8,
+    "fatigue": 3
   },
   "112": {
     "id": "112",
@@ -3292,14 +3274,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "biceps",
-    "secondaryGroups": [
-      "lats",
-      "forearms"
-    ],
+    "secondaryGroups": ["lats", "forearms"],
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 8,
-    "repsHigh": 12
+    "repsHigh": 12,
+    "stimulus": 8,
+    "fatigue": 5
   },
   "113": {
     "id": "113",
@@ -3323,16 +3304,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "lats",
-    "secondaryGroups": [
-      "trapezius",
-      "rhomboids",
-      "biceps",
-      "rear deltoids"
-    ],
+    "secondaryGroups": ["trapezius", "rhomboids", "biceps", "rear deltoids"],
     "exerciseType": "compound",
     "equipmentType": "machine",
     "repsLow": 10,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 7,
+    "fatigue": 5
   },
   "114": {
     "id": "114",
@@ -3356,16 +3334,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "trapezius",
-    "secondaryGroups": [
-      "lats",
-      "rhomboids",
-      "biceps",
-      "rear deltoids"
-    ],
+    "secondaryGroups": ["lats", "rhomboids", "biceps", "rear deltoids"],
     "exerciseType": "compound",
     "equipmentType": "cable",
     "repsLow": 10,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 7,
+    "fatigue": 5
   },
   "115": {
     "id": "115",
@@ -3400,7 +3375,9 @@
     "exerciseType": "compound",
     "equipmentType": "barbell",
     "repsLow": 2,
-    "repsHigh": 8
+    "repsHigh": 8,
+    "stimulus": 4,
+    "fatigue": 10
   },
   "116": {
     "id": "116",
@@ -3424,14 +3401,13 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "side deltoids",
-    "secondaryGroups": [
-      "front deltoids",
-      "trapezius"
-    ],
+    "secondaryGroups": ["front deltoids", "trapezius"],
     "exerciseType": "isolation",
     "equipmentType": "dumbbell",
     "repsLow": 10,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 5,
+    "fatigue": 3
   },
   "117": {
     "id": "117",
@@ -3454,16 +3430,13 @@
     "unitsOne": "Time",
     "unitsTwo": "Distance",
     "primaryGroup": "quadriceps",
-    "secondaryGroups": [
-      "glutes",
-      "hamstrings",
-      "gastrocnemius",
-      "soleus"
-    ],
+    "secondaryGroups": ["glutes", "hamstrings", "gastrocnemius", "soleus"],
     "exerciseType": "cardio",
     "equipmentType": "machine",
     "repsLow": 0,
-    "repsHigh": 0
+    "repsHigh": 0,
+    "stimulus": 1,
+    "fatigue": 5
   },
   "118": {
     "id": "118",
@@ -3486,14 +3459,13 @@
     "unitsOne": "Time",
     "unitsTwo": "Distance",
     "primaryGroup": "quadriceps",
-    "secondaryGroups": [
-      "glutes",
-      "hamstrings"
-    ],
+    "secondaryGroups": ["glutes", "hamstrings"],
     "exerciseType": "cardio",
     "equipmentType": "bodyweight",
     "repsLow": 0,
-    "repsHigh": 0
+    "repsHigh": 0,
+    "stimulus": 3,
+    "fatigue": 4
   },
   "119": {
     "id": "119",
@@ -3516,16 +3488,13 @@
     "unitsOne": "Time",
     "unitsTwo": "Distance",
     "primaryGroup": "quadriceps",
-    "secondaryGroups": [
-      "glutes",
-      "hamstrings",
-      "gastrocnemius",
-      "soleus"
-    ],
+    "secondaryGroups": ["glutes", "hamstrings", "gastrocnemius", "soleus"],
     "exerciseType": "cardio",
     "equipmentType": "bodyweight",
     "repsLow": 0,
-    "repsHigh": 0
+    "repsHigh": 0,
+    "stimulus": 2,
+    "fatigue": 6
   },
   "120": {
     "id": "120",
@@ -3548,14 +3517,13 @@
     "unitsOne": "Time",
     "unitsTwo": "Distance",
     "primaryGroup": "quadriceps",
-    "secondaryGroups": [
-      "glutes",
-      "hamstrings"
-    ],
+    "secondaryGroups": ["glutes", "hamstrings"],
     "exerciseType": "cardio",
     "equipmentType": "machine",
     "repsLow": 0,
-    "repsHigh": 0
+    "repsHigh": 0,
+    "stimulus": 3,
+    "fatigue": 4
   },
   "121": {
     "id": "121",
@@ -3578,14 +3546,13 @@
     "unitsOne": "Time",
     "unitsTwo": "Distance",
     "primaryGroup": "back",
-    "secondaryGroups": [
-      "lats",
-      "glutes"
-    ],
+    "secondaryGroups": ["lats", "glutes"],
     "exerciseType": "cardio",
     "equipmentType": "machine",
     "repsLow": 0,
-    "repsHigh": 0
+    "repsHigh": 0,
+    "stimulus": 3,
+    "fatigue": 4
   },
   "122": {
     "id": "122",
@@ -3608,14 +3575,13 @@
     "unitsOne": "Time",
     "unitsTwo": "Distance",
     "primaryGroup": "quadriceps",
-    "secondaryGroups": [
-      "hamstrings",
-      "glutes"
-    ],
+    "secondaryGroups": ["hamstrings", "glutes"],
     "exerciseType": "cardio",
     "equipmentType": "machine",
     "repsLow": 0,
-    "repsHigh": 0
+    "repsHigh": 0,
+    "stimulus": 1,
+    "fatigue": 4
   },
   "123": {
     "id": "123",
@@ -3638,14 +3604,13 @@
     "unitsOne": "Time",
     "unitsTwo": "Distance",
     "primaryGroup": "quadriceps",
-    "secondaryGroups": [
-      "glutes",
-      "hamstrings"
-    ],
+    "secondaryGroups": ["glutes", "hamstrings"],
     "exerciseType": "cardio",
     "equipmentType": "machine",
     "repsLow": 0,
-    "repsHigh": 0
+    "repsHigh": 0,
+    "stimulus": 5,
+    "fatigue": 7
   },
   "124": {
     "id": "124",
@@ -3669,13 +3634,13 @@
     "unitsOne": "Weight(+)",
     "unitsTwo": "Reps",
     "primaryGroup": "abdominals",
-    "secondaryGroups": [
-      "obliques"
-    ],
+    "secondaryGroups": ["obliques"],
     "exerciseType": "isolation",
     "equipmentType": "bodyweight",
     "repsLow": 6,
-    "repsHigh": 12
+    "repsHigh": 12,
+    "stimulus": 8,
+    "fatigue": 5
   },
   "125": {
     "id": "125",
@@ -3699,13 +3664,13 @@
     "unitsOne": "Weight(+)",
     "unitsTwo": "Reps",
     "primaryGroup": "abdominals",
-    "secondaryGroups": [
-      "obliques"
-    ],
+    "secondaryGroups": ["obliques"],
     "exerciseType": "isolation",
     "equipmentType": "bodyweight",
     "repsLow": 6,
-    "repsHigh": 12
+    "repsHigh": 12,
+    "stimulus": 6,
+    "fatigue": 4
   },
   "126": {
     "id": "126",
@@ -3729,13 +3694,13 @@
     "unitsOne": "Weight(+)",
     "unitsTwo": "Reps",
     "primaryGroup": "abdominals",
-    "secondaryGroups": [
-      "obliques"
-    ],
+    "secondaryGroups": ["obliques"],
     "exerciseType": "isolation",
     "equipmentType": "bodyweight",
     "repsLow": 10,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 6,
+    "fatigue": 3
   },
   "127": {
     "id": "127",
@@ -3759,13 +3724,13 @@
     "unitsOne": "Weight(+)",
     "unitsTwo": "Reps",
     "primaryGroup": "abdominals",
-    "secondaryGroups": [
-      "obliques"
-    ],
+    "secondaryGroups": ["obliques"],
     "exerciseType": "isolation",
     "equipmentType": "bodyweight",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 8,
+    "fatigue": 4
   },
   "128": {
     "id": "128",
@@ -3789,13 +3754,13 @@
     "unitsOne": "Weight(+)",
     "unitsTwo": "Reps",
     "primaryGroup": "abdominals",
-    "secondaryGroups": [
-      "obliques"
-    ],
+    "secondaryGroups": ["obliques"],
     "exerciseType": "isolation",
     "equipmentType": "bodyweight",
     "repsLow": 8,
-    "repsHigh": 15
+    "repsHigh": 15,
+    "stimulus": 4,
+    "fatigue": 5
   },
   "129": {
     "id": "129",
@@ -3819,13 +3784,13 @@
     "unitsOne": "Weight(+)",
     "unitsTwo": "Reps",
     "primaryGroup": "obliques",
-    "secondaryGroups": [
-      "abdominals"
-    ],
+    "secondaryGroups": ["abdominals"],
     "exerciseType": "isolation",
     "equipmentType": "bodyweight",
     "repsLow": 12,
-    "repsHigh": 20
+    "repsHigh": 20,
+    "stimulus": 3,
+    "fatigue": 2
   },
   "130": {
     "id": "130",
@@ -3849,13 +3814,13 @@
     "unitsOne": "Weight(+)",
     "unitsTwo": "Time",
     "primaryGroup": "abdominals",
-    "secondaryGroups": [
-      "obliques"
-    ],
+    "secondaryGroups": ["obliques"],
     "exerciseType": "isometric",
     "equipmentType": "bodyweight",
     "repsLow": 0,
-    "repsHigh": 0
+    "repsHigh": 0,
+    "stimulus": 3,
+    "fatigue": 6
   },
   "131": {
     "id": "131",
@@ -3879,12 +3844,12 @@
     "unitsOne": "Weight",
     "unitsTwo": "Reps",
     "primaryGroup": "abdominals",
-    "secondaryGroups": [
-      "obliques"
-    ],
+    "secondaryGroups": ["obliques"],
     "exerciseType": "isolation",
     "equipmentType": "cable",
     "repsLow": 6,
-    "repsHigh": 12
+    "repsHigh": 12,
+    "stimulus": 8,
+    "fatigue": 4
   }
 }
