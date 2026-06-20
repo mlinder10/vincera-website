@@ -1,137 +1,48 @@
-./public/images/decline-bench-press-contracted.jpeg
-./public/images/decline-bench-press-extended.jpeg
-
-./public/images/incline-dumbbell-chest-fly-contracted.jpeg
-./public/images/incline-dumbbell-chest-fly-extended.jpeg
-
-./public/images/decline-dumbbell-chest-fly-contracted.jpeg
-./public/images/decline-dumbbell-chest-fly-extended.jpeg
-
-./public/images/underhand-bench-press-contracted.jpeg
-./public/images/underhand-bench-press-extended.jpeg
-
-./public/images/reverse-pec-deck-contracted.jpeg
-./public/images/reverse-pec-deck-extended.jpeg
-
-./public/images/machine-shoulder-press-contracted.jpeg
-./public/images/machine-shoulder-press-extended.jpeg
-
-./public/images/dumbbell-kickback-contracted.jpeg
-./public/images/dumbbell-kickback-extended.jpeg
-
-./public/images/barbell-overhead-extension-contracted.jpeg
-./public/images/barbell-overhead-extension-extended.jpeg
-
-./public/images/close-grip-push-up-contracted.jpeg
-./public/images/close-grip-push-up-extended.jpeg
-
-./public/images/barbell-cheat-curl-contracted.jpeg
-./public/images/barbell-cheat-curl-extended.jpeg
-
-./public/images/cable-row-contracted.jpeg
-./public/images/cable-row-extended.jpeg
-
-./public/images/landmine-row-contracted.jpeg
-./public/images/landmine-row-extended.jpeg
-
-./public/images/dumbbell-romanian-deadlift-contracted.jpeg
-./public/images/dumbbell-romanian-deadlift-extended.jpeg
-
-./public/images/lying-leg-curl-contracted.jpeg
-./public/images/lying-leg-curl-extended.jpeg
-
-./public/images/seated-leg-curl-contracted.jpeg
-./public/images/seated-leg-curl-extended.jpeg
-
-./public/images/front-squat-contracted.jpeg
-./public/images/front-squat-extended.jpeg
-
-./public/images/pendulum-squat-contracted.jpeg
-./public/images/pendulum-squat-extended.jpeg
-
-./public/images/hip-adductor-machine-contracted.jpeg
-./public/images/hip-adductor-machine-extended.jpeg
-
-./public/images/hip-abduction-machine-contracted.jpeg
-./public/images/hip-abduction-machine-extended.jpeg
-
-./public/images/barbell-lunge-contracted.jpeg
-./public/images/barbell-lunge-extended.jpeg
-
-./public/images/jefferson-deadlift-contracted.jpeg
-./public/images/jefferson-deadlift-extended.jpeg
-
-./public/images/machine-row-contracted.jpeg
-./public/images/machine-row-extended.jpeg
-
-./public/images/dumbbell-pullover-contracted.jpeg
-./public/images/dumbbell-pullover-extended.jpeg
-
-./public/images/cable-rope-pullover-contracted.jpeg
-./public/images/cable-rope-pullover-extended.jpeg
-
-./public/images/standing-bodyweight-calf-raise-contracted.jpeg
-./public/images/standing-bodyweight-calf-raise-extended.jpeg
-
-./public/images/standing-machine-calf-raise-contracted.jpeg
-./public/images/standing-machine-calf-raise-extended.jpeg
-
-./public/images/leg-press-calf-raise-contracted.jpeg
-./public/images/leg-press-calf-raise-extended.jpeg
-
-./public/images/donkey-calf-raise-contracted.jpeg
-./public/images/donkey-calf-raise-extended.jpeg
+From Video
+- Incline Dumbbell Chest Fly: https://youtube.com/shorts/r-69tKvwQc0
+- Cable Rope Pullover: https://youtube.com/shorts/z6yFwLuCJoQ
+- Dumbbell Bulgarian Split Squat: https://youtube.com/shorts/Nk-4f0qU9Qo
+- Chest Supported Dumbbell Row: https://youtube.com/shorts/eqzDCqqdktc
 
 
 
 
-./public/images/single-arm-dumbbell-overhead-extension-contracted.jpeg
-./public/images/single-arm-dumbbell-overhead-extension-extended.jpeg
 
-./public/images/dumbbell-row-contracted.jpeg
-./public/images/dumbbell-row-extended.jpeg
+To Record
 
-./public/images/dumbbell-bulgarian-split-squat-contracted.jpeg
-./public/images/dumbbell-bulgarian-split-squat-extended.jpeg
+Doable
+- Underhand Bench Press
+- Reverse Pec Deck
+- Machine Shoulder Press
+- Dumbbell Kickback
+- Barbell Skullcrusher
+- Close Grip Push Up
+- Barbell Cheat Curl
+- Cable Row
+- Landmine Row
+- Dumbbell Romanian Deadlift
+- Lying Leg Curl
+- Seated Leg Curl
+- Front Squat
+- Hip Adductor Machine
+- Hip Abductor Machine
+- Barbell Lunge
+- Machine Row
+- Dumbbell Pullover
+- Single Arm Dumbbell Skullcrusher
+- Standing Bodyweight Calf Raise
+- Leg Press Calf Raise
+- Dumbbell Row
+- Hanging Leg Raise
+- Decline Crunch
+- Russian Twist
+- Plank
+- Cable Crunch
 
-./public/images/chest-supported-dumbbel-row-contracted.jpeg
-./public/images/chest-supported-dumbbel-row-extended.jpeg
+Unlikely
+- Decline Bench Press
+- Decline Dumbbell Chest Fly
+- Standing Machine Calf Raise
 
-./public/images/treadmill-contracted.jpeg
-./public/images/treadmill-extended.jpeg
-
-./public/images/outdoor-bike-contracted.jpeg
-./public/images/outdoor-bike-extended.jpeg
-
-./public/images/outdoor-run-contracted.jpeg
-./public/images/outdoor-run-extended.jpeg
-
-./public/images/exercise-bike-contracted.jpeg
-./public/images/exercise-bike-extended.jpeg
-
-./public/images/rowing-machine-contracted.jpeg
-./public/images/rowing-machine-extended.jpeg
-
-./public/images/elliptical-contracted.jpeg
-./public/images/elliptical-extended.jpeg
-
-./public/images/stair-climber-contracted.jpeg
-./public/images/stair-climber-extended.jpeg
-
-./public/images/hanging-leg-raise-contracted.jpeg
-./public/images/hanging-leg-raise-extended.jpeg
-
-./public/images/decline-crunch-contracted.jpeg
-./public/images/decline-crunch-extended.jpeg
-
-./public/images/leg-raise-contracted.jpeg
-./public/images/leg-raise-extended.jpeg
-
-./public/images/russian-twist-contracted.jpeg
-./public/images/russian-twist-extended.jpeg
-
-./public/images/plank-contracted.jpeg
-./public/images/plank-extended.jpeg
-
-./public/images/cable-crunch-contracted.jpeg
-./public/images/cable-crunch-extended.jpeg
+Impossible
+- Pendulum Squat
