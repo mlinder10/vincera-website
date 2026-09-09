@@ -20,3 +20,10 @@ export const adminToken = sqliteTable("admin_token", {
     .notNull(),
   is_consumed: customBoolean("is_consumed").default(false).notNull(),
 });
+
+export const sharedSplit = sqliteTable("shared_split", {
+  id: text("id").primaryKey(),
+  version: integer("version").notNull(),
+  split: text("split").notNull(),
+  exercises: text("exercises").notNull(),
+});

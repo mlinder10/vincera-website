@@ -8,6 +8,13 @@
       "when": 1782335716598,
       "tag": "0000_rapid_mole_man",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1788445030211,
+      "tag": "0001_outgoing_wasp",
+      "breakpoints": true
     }
   ]
 }
