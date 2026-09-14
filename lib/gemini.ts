@@ -14,3 +14,22 @@ export async function prompt(prompt: string) {
 
   return interaction.output_text;
 }
+
+export async function embed(content: string) {
+  const response = await ai.models.embedContent({
+    model: "gemini-embedding-2",
+    contents: `task: sentence similarity | query: ${content}`,
+  });
+
+  if (!response.embeddings) {
+    return undefined;
+  }
+
+  const values = [];
+  for (const embedding of response.embeddings) {
+    if (!embedding.values) return undefined;
+    values.push(...embedding.values);
+  }
+
+  return values;
+}
