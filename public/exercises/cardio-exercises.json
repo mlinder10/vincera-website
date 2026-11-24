@@ -1,0 +1,293 @@
+[
+  {
+    "id": "cardio-0",
+    "name": "Treadmill Run",
+    "image": "cardio/treadmill",
+    "videoUrl": null,
+    "equipment": "Treadmill",
+    "environment": "Indoor",
+    "supportedMetrics": [
+      "Duration",
+      "Distance",
+      "Incline",
+      "Heart Rate",
+      "Calories"
+    ],
+    "activityType": "Running"
+  },
+  {
+    "id": "cardio-1",
+    "name": "Outdoor Bike",
+    "image": "cardio/outdoor-bike",
+    "videoUrl": null,
+    "equipment": "Bicycle",
+    "environment": "Outdoor",
+    "supportedMetrics": [
+      "Duration",
+      "Distance",
+      "Power",
+      "Heart Rate",
+      "Calories"
+    ],
+    "activityType": "Cycling"
+  },
+  {
+    "id": "cardio-2",
+    "name": "Outdoor Run",
+    "image": "cardio/outdoor-run",
+    "videoUrl": null,
+    "equipment": "No Equipment",
+    "environment": "Outdoor",
+    "supportedMetrics": ["Duration", "Distance", "Heart Rate", "Calories"],
+    "activityType": "Running"
+  },
+  {
+    "id": "cardio-3",
+    "name": "Exercise Bike",
+    "image": "cardio/exercise-bike",
+    "videoUrl": null,
+    "equipment": "Stationary Bike",
+    "environment": "Indoor",
+    "supportedMetrics": [
+      "Duration",
+      "Distance",
+      "Resistance",
+      "Power",
+      "Heart Rate",
+      "Calories"
+    ],
+    "activityType": "Cycling"
+  },
+  {
+    "id": "cardio-4",
+    "name": "Rowing Machine",
+    "image": "cardio/rowing-machine",
+    "videoUrl": null,
+    "equipment": "Rowing Machine",
+    "environment": "Indoor",
+    "supportedMetrics": [
+      "Duration",
+      "Distance",
+      "Power",
+      "Heart Rate",
+      "Calories"
+    ],
+    "activityType": "Rowing"
+  },
+  {
+    "id": "cardio-5",
+    "name": "Elliptical",
+    "image": "cardio/elliptical",
+    "videoUrl": null,
+    "equipment": "Elliptical",
+    "environment": "Indoor",
+    "supportedMetrics": [
+      "Duration",
+      "Distance",
+      "Resistance",
+      "Heart Rate",
+      "Calories"
+    ],
+    "activityType": "Elliptical"
+  },
+  {
+    "id": "cardio-6",
+    "name": "Stair Climber",
+    "image": "cardio/stair-climber",
+    "videoUrl": null,
+    "equipment": "Stair Climber",
+    "environment": "Indoor",
+    "supportedMetrics": ["Duration", "Floors", "Heart Rate", "Calories"],
+    "activityType": "Stair Climbing"
+  },
+  {
+    "id": "cardio-7",
+    "name": "Treadmill Walk",
+    "image": "cardio/treadmill",
+    "videoUrl": null,
+    "equipment": "Treadmill",
+    "environment": "Indoor",
+    "supportedMetrics": [
+      "Duration",
+      "Distance",
+      "Incline",
+      "Heart Rate",
+      "Calories"
+    ],
+    "activityType": "Walking"
+  },
+  {
+    "id": "cardio-8",
+    "name": "Outdoor Walk",
+    "image": "cardio/outdoor-run",
+    "videoUrl": null,
+    "equipment": "No Equipment",
+    "environment": "Outdoor",
+    "supportedMetrics": ["Duration", "Distance", "Heart Rate", "Calories"],
+    "activityType": "Walking"
+  },
+  {
+    "id": "cardio-9",
+    "name": "Hiking",
+    "image": "cardio/outdoor-run",
+    "videoUrl": null,
+    "equipment": "No Equipment",
+    "environment": "Outdoor",
+    "supportedMetrics": ["Duration", "Distance", "Heart Rate", "Calories"],
+    "activityType": "Walking"
+  },
+  {
+    "id": "cardio-10",
+    "name": "Trail Run",
+    "image": "cardio/outdoor-run",
+    "videoUrl": null,
+    "equipment": "No Equipment",
+    "environment": "Outdoor",
+    "supportedMetrics": ["Duration", "Distance", "Heart Rate", "Calories"],
+    "activityType": "Running"
+  },
+  {
+    "id": "cardio-11",
+    "name": "Indoor Track Run",
+    "image": "cardio/outdoor-run",
+    "videoUrl": null,
+    "equipment": "No Equipment",
+    "environment": "Indoor",
+    "supportedMetrics": ["Duration", "Distance", "Heart Rate", "Calories"],
+    "activityType": "Running"
+  },
+  {
+    "id": "cardio-12",
+    "name": "Indoor Track Walk",
+    "image": "cardio/outdoor-run",
+    "videoUrl": null,
+    "equipment": "No Equipment",
+    "environment": "Indoor",
+    "supportedMetrics": ["Duration", "Distance", "Heart Rate", "Calories"],
+    "activityType": "Walking"
+  },
+  {
+    "id": "cardio-13",
+    "name": "Incline Treadmill Walk",
+    "image": "cardio/treadmill",
+    "videoUrl": null,
+    "equipment": "Treadmill",
+    "environment": "Indoor",
+    "supportedMetrics": [
+      "Duration",
+      "Distance",
+      "Incline",
+      "Heart Rate",
+      "Calories"
+    ],
+    "activityType": "Walking"
+  },
+  {
+    "id": "cardio-14",
+    "name": "Recumbent Bike",
+    "image": "cardio/exercise-bike",
+    "videoUrl": null,
+    "equipment": "Stationary Bike",
+    "environment": "Indoor",
+    "supportedMetrics": [
+      "Duration",
+      "Distance",
+      "Resistance",
+      "Power",
+      "Heart Rate",
+      "Calories"
+    ],
+    "activityType": "Cycling"
+  },
+  {
+    "id": "cardio-15",
+    "name": "Air Bike",
+    "image": "cardio/exercise-bike",
+    "videoUrl": null,
+    "equipment": "Stationary Bike",
+    "environment": "Indoor",
+    "supportedMetrics": [
+      "Duration",
+      "Distance",
+      "Power",
+      "Heart Rate",
+      "Calories"
+    ],
+    "activityType": "Cycling"
+  },
+  {
+    "id": "cardio-16",
+    "name": "Spin Bike",
+    "image": "cardio/exercise-bike",
+    "videoUrl": null,
+    "equipment": "Stationary Bike",
+    "environment": "Indoor",
+    "supportedMetrics": [
+      "Duration",
+      "Distance",
+      "Resistance",
+      "Power",
+      "Heart Rate",
+      "Calories"
+    ],
+    "activityType": "Cycling"
+  },
+  {
+    "id": "cardio-17",
+    "name": "Road Cycling",
+    "image": "cardio/outdoor-bike",
+    "videoUrl": null,
+    "equipment": "Bicycle",
+    "environment": "Outdoor",
+    "supportedMetrics": [
+      "Duration",
+      "Distance",
+      "Power",
+      "Heart Rate",
+      "Calories"
+    ],
+    "activityType": "Cycling"
+  },
+  {
+    "id": "cardio-18",
+    "name": "Mountain Biking",
+    "image": "cardio/outdoor-bike",
+    "videoUrl": null,
+    "equipment": "Bicycle",
+    "environment": "Outdoor",
+    "supportedMetrics": [
+      "Duration",
+      "Distance",
+      "Power",
+      "Heart Rate",
+      "Calories"
+    ],
+    "activityType": "Cycling"
+  },
+  {
+    "id": "cardio-19",
+    "name": "Gravel Cycling",
+    "image": "cardio/outdoor-bike",
+    "videoUrl": null,
+    "equipment": "Bicycle",
+    "environment": "Outdoor",
+    "supportedMetrics": [
+      "Duration",
+      "Distance",
+      "Power",
+      "Heart Rate",
+      "Calories"
+    ],
+    "activityType": "Cycling"
+  },
+  {
+    "id": "cardio-20",
+    "name": "Outdoor Stair Climbing",
+    "image": "cardio/stair-climber",
+    "videoUrl": null,
+    "equipment": "No Equipment",
+    "environment": "Outdoor",
+    "supportedMetrics": ["Duration", "Floors", "Heart Rate", "Calories"],
+    "activityType": "Stair Climbing"
+  }
+]
